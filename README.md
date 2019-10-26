@@ -1,5 +1,5 @@
 # factorial_recursion
-it finds the factorial using a recursive function.
+it finds the factorial using a recursive function.Using recursion
 
 #seudocode
 
